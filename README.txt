@@ -1,0 +1,1 @@
+In order to run crust, switch into this directory, and run “crust.py”, using the argument “python crust.py”.
