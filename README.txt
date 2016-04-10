@@ -1,1 +1,3 @@
+NOTE: AS OF 4/10/16, THERE ARE MAJOR GLITCHES WITH ORDERING NOW (ORDERING FOR IN THE FUTURE WORKS), SO WE HAVE NOT INCLUDED THE CORRECT "SEND.PY" FILE IN THIS REPOSITORY.  WE WILL BE UPDATING THIS IN THE FUTURE FOR FULL FUNCTIONALITY.
+
 In order to run crust, clone this repository.  Change directory into the folder, and run “crust.py”, using “python crust.py”.
